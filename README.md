@@ -1,2 +1,2 @@
 # nada
-vacío
+repositorio sin nada en particular
